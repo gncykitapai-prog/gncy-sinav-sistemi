@@ -1,52 +1,5 @@
 [
   {
-    "id": "ankara-lgs-1",
-    "name": "ANKARA 8. SINIF LGS 1. DENEME",
-    "type": "LGS",
-    "sections": [
-      [
-        "Türkçe",
-        20
-      ],
-      [
-        "Tarih",
-        10
-      ],
-      [
-        "Din K.ve A.B.",
-        10
-      ],
-      [
-        "İngilizce",
-        10
-      ],
-      [
-        "Matematik",
-        20
-      ],
-      [
-        "Fen",
-        20
-      ]
-    ],
-    "keys": {
-      "A": {
-        "Türkçe": "BCBDDABADBADBCDCCAAC",
-        "Tarih": "DCABCDBACA",
-        "Din K.ve A.B.": "DACBCABCBD",
-        "İngilizce": "CAADBCCDBA",
-        "Matematik": "ABCCCDBAACBDADBDCDAB",
-        "Fen": "DCACAABCCAABBDBCDDDB"
-      },
-      "B": {
-        "Türkçe": "CAACCDCBDABDABADDBCB",
-        "Tarih": "ACABDCBACD",
-        "Din K.ve A.B.": "DBCBACBCAD",
-        "İngilizce": "ABDCCBDAAC",
-        "Matematik": "BADCDBDADBCAABDCCCBA",
-        "Fen": "BDDDCBDBBAACCBAACACD"
-      }
-    },
     "meta": {
       "A": {
         "Türkçe": [
@@ -130,26 +83,26 @@
           "İki doğal sayının en büyük ortak bölenini (EBOB) ve en küçük ortak katını (EKOK) hesaplar, ilgili problemleri çözer."
         ],
         "Fen": [
-          "Meteorolog kavramını açıklar.",
-          "Alçak hava basıncını açıklar.",
+          "Meteorolog kavramını açıklar. / Hava olaylarının değişken olduğunu söyler. / Hava tahminlerinin yapıldığı sıklığı açıklar.",
+          "Alçak hava basıncını açıklar. / Yüksek hava basıncını açıklar. / Rüzgar kavramını açıklar.",
           "Güney yarım küre ile kuzey yarım kürenin aynı anda farklı mevsimler yaşadığını açıklar.",
           "Dünya'nın Güneş çevresinde dolanımı sırasında bulunduğu konumlara göre güney yarım kürede ve kuzey yarım kürede yaşanan mevsimleri tahmin eder.",
           "Dünya'nın Güneş çevresinde dolanımı sırasında bulunduğu konumlara göre güney yarım kürede ve kuzey yarım kürede yaşanan mevsimleri tahmin eder.",
-          "İklim bilimci (klimatolog) kavramını açıklar.",
-          "Güneş ışınlarının gelme açısı ile bölgelerdeki sıcaklık farklarını açıklar.",
+          "İklim bilimci (klimatolog) kavramını açıklar. / Meteoroloji kavramını açıklar. / İklim ve hava olayları arasındaki farkları açıklar.",
+          "Güneş ışınlarının gelme açısı ile bölgelerdeki sıcaklık farklarını açıklar. / Birim alana düşen ışık miktarı ile sıcaklık değişimi arasındaki ilişkiyi açıklar.",
           "Dünya'nın Güneş çevresinde dolanımı sırasında bulunduğu konumlara göre güney yarım kürede ve kuzey yarım kürede yaşanan mevsimleri tahmin eder.",
-          "Küresel iklim değişikliği kavramını açıklar.",
-          "Dünya'nın Güneş çevresinde dolanımı sırasında bulunduğu konumlara göre güney yarım kürede ve kuzey yarım kürede yaşanan mevsimleri tahmin eder.",
-          "Hava olaylarının değişken olduğunu söyler.",
-          "Yağmuru açıklar.",
-          "Güneş ışınlarının gelme açısı ile bölgelerdeki sıcaklık farklarını açıklar.",
+          "Küresel iklim değişikliği kavramını açıklar. / Küresel iklim değişikliğinin sonuçlarını belirtir.",
+          "Dünya'nın Güneş çevresinde dolanımı sırasında bulunduğu konumlara göre güney yarım kürede ve kuzey yarım kürede yaşanan mevsimleri tahmin eder. / Güneş ışınlarının gelme açısı ile bölgelerdeki sıcaklık farklarını açıklar. / Birim alana düşen ışık miktarı ile sıcaklık değişimi arasındaki ilişkiyi açıklar.",
+          "Hava olaylarının değişken olduğunu söyler. / Yağmuru açıklar. / Sisi açıklar.",
+          "Yağmuru açıklar. / Karı açıklar. / Doluyu açıklar. / Çiyi açıklar. / Kırağıyı açıklar. / Sisi açıklar.",
+          "Güneş ışınlarının gelme açısı ile bölgelerdeki sıcaklık farklarını açıklar. / Birim alana düşen ışık miktarı ile sıcaklık değişimi arasındaki ilişkiyi açıklar.",
           "Birim alana düşen ışık miktarı ile sıcaklık değişimi arasındaki ilişkiyi açıklar.",
           "Dünya'nın Güneş çevresinde dolanımı sırasında bulunduğu konumlara göre güney yarım kürede ve kuzey yarım kürede yaşanan mevsimleri tahmin eder.",
-          "Dünya'nın Güneş çevresinde dolanımı sırasında bulunduğu konumlara göre güney yarım kürede ve kuzey yarım kürede yaşanan mevsimleri tahmin eder.",
-          "Alçak hava basıncını açıklar.",
-          "Güney yarım küre ile kuzey yarım kürenin aynı anda farklı mevsimler yaşadığını açıklar.",
+          "Dünya'nın Güneş çevresinde dolanımı sırasında bulunduğu konumlara göre güney yarım kürede ve kuzey yarım kürede yaşanan mevsimleri tahmin eder. / Birim alana düşen ışık miktarı ile sıcaklık değişimi arasındaki ilişkiyi açıklar.",
+          "Alçak hava basıncını açıklar. / Yüksek hava basıncını açıklar. / Rüzgar kavramını açıklar. / Günlük sıcaklık farklılıklarının hava olaylarının oluşmasındaki etkisini açıklar.",
+          "Güney yarım küre ile kuzey yarım kürenin aynı anda farklı mevsimler yaşadığını açıklar. / Dünya'nın Güneş çevresinde dolanımı sırasında bulunduğu konumlara göre güney yarım kürede ve kuzey yarım kürede yaşanan mevsimleri tahmin eder.",
           "Küresel iklim değişikliği kavramını açıklar.",
-          "Mevsimlerin oluşumunu sağlayan olayları açıklar."
+          "Mevsimlerin oluşumunu sağlayan olayları açıklar. / Dünya'nın ekseninin eğikliğinin mevsimlerin oluşumuna etkisini açıklar. / Dünya'nın Güneş etrafında dolanmasının mevsimlerin oluşumuna katkısını açıklar."
         ]
       },
       "B": {
@@ -234,27 +187,74 @@
           "İki doğal sayının en büyük ortak bölenini (EBOB) ve en küçük ortak katını (EKOK) hesaplar, ilgili problemleri çözer."
         ],
         "Fen": [
-          "Mevsimlerin oluşumunu sağlayan olayları açıklar.",
+          "Mevsimlerin oluşumunu sağlayan olayları açıklar. / Dünya'nın ekseninin eğikliğinin mevsimlerin oluşumuna etkisini açıklar. / Dünya'nın Güneş etrafında dolanmasının mevsimlerin oluşumuna katkısını açıklar.",
           "Küresel iklim değişikliği kavramını açıklar.",
-          "Güney yarım küre ile kuzey yarım kürenin aynı anda farklı mevsimler yaşadığını açıklar.",
-          "Alçak hava basıncını açıklar.",
-          "Dünya'nın Güneş çevresinde dolanımı sırasında bulunduğu konumlara göre güney yarım kürede ve kuzey yarım kürede yaşanan mevsimleri tahmin eder.",
+          "Güney yarım küre ile kuzey yarım kürenin aynı anda farklı mevsimler yaşadığını açıklar. / Dünya'nın Güneş çevresinde dolanımı sırasında bulunduğu konumlara göre güney yarım kürede ve kuzey yarım kürede yaşanan mevsimleri tahmin eder.",
+          "Alçak hava basıncını açıklar. / Yüksek hava basıncını açıklar. / Rüzgar kavramını açıklar. / Günlük sıcaklık farklılıklarının hava olaylarının oluşmasındaki etkisini açıklar.",
+          "Dünya'nın Güneş çevresinde dolanımı sırasında bulunduğu konumlara göre güney yarım kürede ve kuzey yarım kürede yaşanan mevsimleri tahmin eder. / Birim alana düşen ışık miktarı ile sıcaklık değişimi arasındaki ilişkiyi açıklar.",
           "Dünya'nın Güneş çevresinde dolanımı sırasında bulunduğu konumlara göre güney yarım kürede ve kuzey yarım kürede yaşanan mevsimleri tahmin eder.",
           "Birim alana düşen ışık miktarı ile sıcaklık değişimi arasındaki ilişkiyi açıklar.",
-          "Güneş ışınlarının gelme açısı ile bölgelerdeki sıcaklık farklarını açıklar.",
-          "Yağmuru açıklar.",
-          "Hava olaylarının değişken olduğunu söyler.",
+          "Güneş ışınlarının gelme açısı ile bölgelerdeki sıcaklık farklarını açıklar. / Birim alana düşen ışık miktarı ile sıcaklık değişimi arasındaki ilişkiyi açıklar.",
+          "Yağmuru açıklar. / Karı açıklar. / Doluyu açıklar. / Çiyi açıklar. / Kırağıyı açıklar. / Sisi açıklar.",
+          "Hava olaylarının değişken olduğunu söyler. / Yağmuru açıklar. / Sisi açıklar.",
+          "Dünya'nın Güneş çevresinde dolanımı sırasında bulunduğu konumlara göre güney yarım kürede ve kuzey yarım kürede yaşanan mevsimleri tahmin eder. / Güneş ışınlarının gelme açısı ile bölgelerdeki sıcaklık farklarını açıklar. / Birim alana düşen ışık miktarı ile sıcaklık değişimi arasındaki ilişkiyi açıklar.",
+          "Küresel iklim değişikliği kavramını açıklar. / Küresel iklim değişikliğinin sonuçlarını belirtir.",
           "Dünya'nın Güneş çevresinde dolanımı sırasında bulunduğu konumlara göre güney yarım kürede ve kuzey yarım kürede yaşanan mevsimleri tahmin eder.",
-          "Küresel iklim değişikliği kavramını açıklar.",
-          "Dünya'nın Güneş çevresinde dolanımı sırasında bulunduğu konumlara göre güney yarım kürede ve kuzey yarım kürede yaşanan mevsimleri tahmin eder.",
-          "Güneş ışınlarının gelme açısı ile bölgelerdeki sıcaklık farklarını açıklar.",
-          "İklim bilimci (klimatolog) kavramını açıklar.",
+          "Güneş ışınlarının gelme açısı ile bölgelerdeki sıcaklık farklarını açıklar. / Birim alana düşen ışık miktarı ile sıcaklık değişimi arasındaki ilişkiyi açıklar.",
+          "İklim bilimci (klimatolog) kavramını açıklar. / Meteoroloji kavramını açıklar. / İklim ve hava olayları arasındaki farkları açıklar.",
           "Dünya'nın Güneş çevresinde dolanımı sırasında bulunduğu konumlara göre güney yarım kürede ve kuzey yarım kürede yaşanan mevsimleri tahmin eder.",
           "Dünya'nın Güneş çevresinde dolanımı sırasında bulunduğu konumlara göre güney yarım kürede ve kuzey yarım kürede yaşanan mevsimleri tahmin eder.",
           "Güney yarım küre ile kuzey yarım kürenin aynı anda farklı mevsimler yaşadığını açıklar.",
-          "Alçak hava basıncını açıklar.",
-          "Meteorolog kavramını açıklar."
+          "Alçak hava basıncını açıklar. / Yüksek hava basıncını açıklar. / Rüzgar kavramını açıklar.",
+          "Meteorolog kavramını açıklar. / Hava olaylarının değişken olduğunu söyler. / Hava tahminlerinin yapıldığı sıklığı açıklar."
         ]
+      }
+    },
+    "id": "mvm52qmkp8ft",
+    "name": "8. SINIF LGS 1.DENEME",
+    "type": "LGS",
+    "sections": [
+      [
+        "Türkçe",
+        20
+      ],
+      [
+        "Tarih",
+        10
+      ],
+      [
+        "Din K.ve A.B.",
+        10
+      ],
+      [
+        "İngilizce",
+        10
+      ],
+      [
+        "Matematik",
+        20
+      ],
+      [
+        "Fen",
+        20
+      ]
+    ],
+    "keys": {
+      "A": {
+        "Türkçe": "BCBDDABADBADBCDCCAAC",
+        "Tarih": "DCABCDBACA",
+        "Din K.ve A.B.": "DACBCABCBD",
+        "İngilizce": "CAADBCCDBA",
+        "Matematik": "ABCCCDBAACBDADBDCDAB",
+        "Fen": "DCACAABCCAABBDBCDDDB"
+      },
+      "B": {
+        "Türkçe": "CAACCDCBDABDABADDBCB",
+        "Tarih": "ACABDCBACD",
+        "Din K.ve A.B.": "DBCBACBCAD",
+        "İngilizce": "ABDCCBDAAC",
+        "Matematik": "BADCDBDADBCAABDCCCBA",
+        "Fen": "BDDDCBDBBAACCBAACACD"
       }
     }
   }
