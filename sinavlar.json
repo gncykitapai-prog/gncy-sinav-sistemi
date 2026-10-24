@@ -257,5 +257,364 @@
         "Fen": "BDDDCBDBBAACCBAACACD"
       }
     }
+  },
+  {
+    "meta": {
+      "A": {
+        "Türkçe": [
+          "Metne Sözcük Yerleştirme",
+          "Sözcükte Anlam",
+          "Söz Öbeklerinde Anlam",
+          "Sözcükte Anlam",
+          "Parçadaki Cümlelerin İçerik ve Özellikleri",
+          "İki Cümleyi Karşılaştırma",
+          "İki Cümleyi Birleştirme",
+          "Çekim Ekleri ve Türleri",
+          "Karma Dil Bilgisi",
+          "Cümlenin Ögeleri - Karma",
+          "Yazım Kuralları - Karma",
+          "Bitişik ve Ayrı Yazılan Kelimeler",
+          "Noktalama İşaretleri - Karma",
+          "Düşünceyi Geliştirme Yolları",
+          "Noktalama İşaretleri - Karma",
+          "Paragrafta Anlatım Akışını Bozan Cümle",
+          "Paragrafa Cümle Yerleştirme",
+          "Paragrafta Boş Bırakılan Yerleri Tamamlama",
+          "Paragrafta Ana Düşünce (Ana Fikir)",
+          "Paragrafta Ana Düşünce (Ana Fikir)",
+          "Paragrafın Yorumlanması",
+          "Paragrafta Ana Düşünce (Ana Fikir)",
+          "Paragrafı İkiye Ayırma",
+          "Paragrafta Yardımcı Düşünceler",
+          "Paragrafta Yardımcı Düşünceler",
+          "Paragrafın Yorumlanması",
+          "Paragrafta Ana Düşünce (Ana Fikir)",
+          "Paragrafta Ana Düşünce (Ana Fikir)",
+          "Paragrafta Yardımcı Düşünceler",
+          "Paragrafın Yorumlanması",
+          "Paragrafta Yardımcı Düşünceler",
+          "Paragrafın Karşılık Olduğu Soruyu Belirleme",
+          "Paragrafta Yardımcı Düşünceler",
+          "Paragrafta Yardımcı Düşünceler",
+          "Bir Paragrafa Bağlı Çoklu Sorular",
+          "Bir Paragrafa Bağlı Çoklu Sorular",
+          "Bir Paragrafa Bağlı Çoklu Sorular",
+          "Bir Paragrafa Bağlı Çoklu Sorular",
+          "Bir Paragrafa Bağlı Çoklu Sorular",
+          "Bir Paragrafa Bağlı Çoklu Sorular"
+        ],
+        "Tarih-1": [
+          "1072-1308 Yılları Arasındaki Başlıca Siyasi Gelişmeler",
+          "Osmanlı Devleti'nde Değişim",
+          "İşgallerin Başlaması ve Millî Mücadele'ye Hazırlık",
+          "Büyük Millet Meclisinin Açılması",
+          "Türklerde Coğrafya ile Oluşan Yaşam Tarzı"
+        ],
+        "Coğrafya-1": [
+          "Türkiye'de Dış Kuvvetler",
+          "Nüfus Piramitleri",
+          "Amaçlarına Göre Bölge Sınırları",
+          "İklim Elemanları / Sıcaklık",
+          "İç Kuvvetler"
+        ],
+        "Felsefe": [
+          "Bilim Felsefesi",
+          "Varlık Felsefesi",
+          "Bilgi Felsefesi",
+          "Sanat Felsefesi",
+          "Ahlak Felsefesi"
+        ],
+        "Din Kül. ve Ahl. Bil.": [
+          "Gönül Coğrafyamız",
+          "Bilgi ve İnanç",
+          "İslam Düşüncesinde İtikadi, Siyasi ve Fıkhi Yorumlar",
+          "Bilgi ve İnanç",
+          "Kur'an'a Göre Hz. Muhammed"
+        ],
+        "Matematik-1": [
+          "Rasyonel Sayılar / Kesir Problemleri",
+          "Sayı Problemleri / Dört İşlem Yeteneği",
+          "Ondalık Sayılar",
+          "Köklü ifadeler",
+          "Kesir Problemleri / Aralık Kavramı ve Basit Eşitsizlikler",
+          "Aralık Kavramı ve Basit Eşitsizlikler / Birinci Dereceden Bir Bilinmeyenli Denklemler",
+          "Tek ve Çift Sayılar",
+          "Birinci Dereceden Bir Bilinmeyenli Denklemler / Birinci Dereceden İki Bilinmeyenli Denklemler",
+          "Aralık Kavramı ve Basit Eşitsizlikler / Sayı Problemleri",
+          "Küme Kavramı ve Kümelerde İşlemler",
+          "Önermeler ve Bileşik Önermeler / Koşullu Önerme ve İki Yönlü Koşullu Önerme",
+          "Sayı Basamakları",
+          "Bölünebilme Kuralları",
+          "Rutin Olmayan Problemler / Temel Kavramlar ve Sayı Kümeleri",
+          "Fonksiyonlarda İşlemler / Fonksiyonlarda Bileşke İşlemi",
+          "Fonksiyon Grafikleri / Fonksiyon Grafiklerinin Yorumlanması",
+          "Merkezî Eğilim ve Yayılım Ölçüleri",
+          "Oran ve Orantı / Sayı Problemleri",
+          "Sayı Problemleri / Rutin Olmayan Problemler",
+          "Yaş Problemleri",
+          "İşçi Problemleri / Oran ve Orantı",
+          "İşçi Problemleri / Oran ve Orantı",
+          "Hareket Problemleri / Sayı Problemleri",
+          "Hareket Problemleri",
+          "Yüzde, Kar-Zarar Problemleri",
+          "Küme Problemleri",
+          "Sayı Problemleri",
+          "Grafik Problemleri / Verilerin Grafikle Gösterilmesi",
+          "Kombinasyon / Rutin Olmayan Problemler",
+          "Basit Olayların Olasılıkları"
+        ],
+        "Geometri": [
+          "Üçgende Açılar",
+          "Dik Üçgen ve Pisagor Teoremi",
+          "Üçgende Kenarortay",
+          "Üçgende Alan",
+          "Çokgenler",
+          "Kare",
+          "Dikdörtgen",
+          "Deltoid",
+          "Prizmalar",
+          "Prizmalar"
+        ],
+        "Fizik": [
+          "Isı, Sıcaklık ve İç Enerji",
+          "Küresel Aynalar",
+          "Kaldırma Kuvveti",
+          "Fiziksel Niceliklerin Sınıflandırılması",
+          "İvme",
+          "Elektroskop",
+          "Kaldırma Kuvveti"
+        ],
+        "Kimya": [
+          "Kimyanın Sembolik Dili",
+          "Katman Elektron Dağılımı ve Periyodik Tabloda Yer Bulma / Periyodik Özellikler",
+          "Kimyasal Türler ve Türler Arası Etkileşimlerin Sınıflandırılması",
+          "Sıvılar",
+          "Kimyasal Hesaplamalar / Sınırlayıcı Bileşen Hesaplamaları / Kimyasal Hesaplamalar / Miktar İçeren Problemler",
+          "Ayırma ve Saflaştırma Teknikleri",
+          "Asit ve Bazların Metallerle Tepkimeleri"
+        ],
+        "Biyoloji": [
+          "Nükleik Asitler",
+          "Koful",
+          "Güncel Çevre Sorunları ve İnsan",
+          "Mitoz",
+          "Soyağaçları (Otozomal)",
+          "Hayvanlar"
+        ]
+      },
+      "B": {
+        "Türkçe": [
+          "Sözcükte Anlam",
+          "Metne Sözcük Yerleştirme",
+          "Sözcükte Anlam",
+          "Söz Öbeklerinde Anlam",
+          "İki Cümleyi Birleştirme",
+          "Çekim Ekleri ve Türleri",
+          "Parçadaki Cümlelerin İçerik ve Özellikleri",
+          "İki Cümleyi Karşılaştırma",
+          "Bitişik ve Ayrı Yazılan Kelimeler",
+          "Noktalama İşaretleri - Karma",
+          "Düşünceyi Geliştirme Yolları",
+          "Karma Dil Bilgisi",
+          "Cümlenin Ögeleri - Karma",
+          "Yazım Kuralları - Karma",
+          "Paragrafa Cümle Yerleştirme",
+          "Paragrafta Boş Bırakılan Yerleri Tamamlama",
+          "Noktalama İşaretleri - Karma",
+          "Paragrafta Anlatım Akışını Bozan Cümle",
+          "Paragrafın Yorumlanması",
+          "Paragrafta Ana Düşünce (Ana Fikir)",
+          "Paragrafta Ana Düşünce (Ana Fikir)",
+          "Paragrafı İkiye Ayırma",
+          "Paragrafta Yardımcı Düşünceler",
+          "Paragrafta Ana Düşünce (Ana Fikir)",
+          "Paragrafta Ana Düşünce (Ana Fikir)",
+          "Paragrafta Yardımcı Düşünceler",
+          "Paragrafın Yorumlanması",
+          "Paragrafta Ana Düşünce (Ana Fikir)",
+          "Paragrafta Yardımcı Düşünceler",
+          "Paragrafın Karşılık Olduğu Soruyu Belirleme",
+          "Paragrafta Yardımcı Düşünceler",
+          "Paragrafın Yorumlanması",
+          "Bir Paragrafa Bağlı Çoklu Sorular",
+          "Bir Paragrafa Bağlı Çoklu Sorular",
+          "Bir Paragrafa Bağlı Çoklu Sorular",
+          "Bir Paragrafa Bağlı Çoklu Sorular",
+          "Bir Paragrafa Bağlı Çoklu Sorular",
+          "Bir Paragrafa Bağlı Çoklu Sorular",
+          "Paragrafta Yardımcı Düşünceler",
+          "Paragrafta Yardımcı Düşünceler"
+        ],
+        "Tarih-1": [
+          "Büyük Millet Meclisinin Açılması",
+          "1072-1308 Yılları Arasındaki Başlıca Siyasi Gelişmeler",
+          "Osmanlı Devleti'nde Değişim",
+          "İşgallerin Başlaması ve Millî Mücadele'ye Hazırlık",
+          "Türklerde Coğrafya ile Oluşan Yaşam Tarzı"
+        ],
+        "Coğrafya-1": [
+          "Amaçlarına Göre Bölge Sınırları",
+          "İklim Elemanları / Sıcaklık",
+          "İç Kuvvetler",
+          "Türkiye'de Dış Kuvvetler",
+          "Nüfus Piramitleri"
+        ],
+        "Felsefe": [
+          "Bilgi Felsefesi",
+          "Sanat Felsefesi",
+          "Ahlak Felsefesi",
+          "Varlık Felsefesi",
+          "Bilim Felsefesi"
+        ],
+        "Din Kül. ve Ahl. Bil.": [
+          "Kur'an'a Göre Hz. Muhammed",
+          "Gönül Coğrafyamız",
+          "Bilgi ve İnanç",
+          "Bilgi ve İnanç",
+          "İslam Düşüncesinde İtikadi, Siyasi ve Fıkhi Yorumlar"
+        ],
+        "Matematik-1": [
+          "Köklü ifadeler",
+          "Rasyonel Sayılar / Kesir Problemleri",
+          "Sayı Problemleri / Dört İşlem Yeteneği",
+          "Ondalık Sayılar",
+          "Birinci Dereceden Bir Bilinmeyenli Denklemler / Birinci Dereceden İki Bilinmeyenli Denklemler",
+          "Aralık Kavramı ve Basit Eşitsizlikler / Sayı Problemleri",
+          "Kesir Problemleri / Aralık Kavramı ve Basit Eşitsizlikler",
+          "Aralık Kavramı ve Basit Eşitsizlikler / Birinci Dereceden Bir Bilinmeyenli Denklemler",
+          "Tek ve Çift Sayılar",
+          "Sayı Basamakları",
+          "Bölünebilme Kuralları",
+          "Rutin Olmayan Problemler / Temel Kavramlar ve Sayı Kümeleri",
+          "Küme Kavramı ve Kümelerde İşlemler",
+          "Önermeler ve Bileşik Önermeler / Koşullu Önerme ve İki Yönlü Koşullu Önerme",
+          "Oran ve Orantı / Sayı Problemleri",
+          "Fonksiyonlarda İşlemler / Fonksiyonlarda Bileşke İşlemi",
+          "Fonksiyon Grafikleri / Fonksiyon Grafiklerinin Yorumlanması",
+          "Merkezî Eğilim ve Yayılım Ölçüleri",
+          "İşçi Problemleri / Oran ve Orantı",
+          "İşçi Problemleri / Oran ve Orantı",
+          "Sayı Problemleri / Rutin Olmayan Problemler",
+          "Yaş Problemleri",
+          "Hareket Problemleri",
+          "Yüzde, Kar-Zarar Problemleri",
+          "Hareket Problemleri / Sayı Problemleri",
+          "Kombinasyon / Rutin Olmayan Problemler",
+          "Küme Problemleri",
+          "Sayı Problemleri",
+          "Basit Olayların Olasılıkları",
+          "Grafik Problemleri / Verilerin Grafikle Gösterilmesi"
+        ],
+        "Geometri": [
+          "Dik Üçgen ve Pisagor Teoremi",
+          "Üçgende Açılar",
+          "Kare",
+          "Üçgende Kenarortay",
+          "Üçgende Alan",
+          "Çokgenler",
+          "Prizmalar",
+          "Dikdörtgen",
+          "Deltoid",
+          "Prizmalar"
+        ],
+        "Fizik": [
+          "Fiziksel Niceliklerin Sınıflandırılması",
+          "Isı, Sıcaklık ve İç Enerji",
+          "Küresel Aynalar",
+          "Kaldırma Kuvveti",
+          "Kaldırma Kuvveti",
+          "İvme",
+          "Elektroskop"
+        ],
+        "Kimya": [
+          "Kimyasal Hesaplamalar / Sınırlayıcı Bileşen Hesaplamaları / Kimyasal Hesaplamalar / Miktar İçeren Problemler",
+          "Kimyanın Sembolik Dili",
+          "Katman Elektron Dağılımı ve Periyodik Tabloda Yer Bulma / Periyodik Özellikler",
+          "Kimyasal Türler ve Türler Arası Etkileşimlerin Sınıflandırılması",
+          "Ayırma ve Saflaştırma Teknikleri",
+          "Asit ve Bazların Metallerle Tepkimeleri",
+          "Sıvılar"
+        ],
+        "Biyoloji": [
+          "Güncel Çevre Sorunları ve İnsan",
+          "Nükleik Asitler",
+          "Koful",
+          "Soyağaçları (Otozomal)",
+          "Hayvanlar",
+          "Mitoz"
+        ]
+      }
+    },
+    "id": "mvm805ggx7xx",
+    "name": "SONUÇ TYT DENEME - 1",
+    "type": "TYT",
+    "sections": [
+      [
+        "Türkçe",
+        40
+      ],
+      [
+        "Tarih-1",
+        5
+      ],
+      [
+        "Coğrafya-1",
+        5
+      ],
+      [
+        "Felsefe",
+        5
+      ],
+      [
+        "Din Kül. ve Ahl. Bil.",
+        5
+      ],
+      [
+        "Matematik-1",
+        30
+      ],
+      [
+        "Geometri",
+        10
+      ],
+      [
+        "Fizik",
+        7
+      ],
+      [
+        "Kimya",
+        7
+      ],
+      [
+        "Biyoloji",
+        6
+      ]
+    ],
+    "keys": {
+      "A": {
+        "Türkçe": "AACEDEBACBAADBDAACEEEDDBABCDCBEDCACDDEEC",
+        "Tarih-1": "DAEBC",
+        "Coğrafya-1": "CBDEA",
+        "Felsefe": "DBCEC",
+        "Din Kül. ve Ahl. Bil.": "BDDEC",
+        "Matematik-1": "DCBBEAEDBEECBDEBDABCDACDABACCA",
+        "Geometri": "EABDCCBEAD",
+        "Fizik": "ECEDBEA",
+        "Kimya": "DCBECAB",
+        "Biyoloji": "BDCDEA"
+      },
+      "B": {
+        "Türkçe": "EAACBADEADBCBAACDAEEEDBDDABCEDCBCDDEECCA",
+        "Tarih-1": "BDAEC",
+        "Coğrafya-1": "DEACB",
+        "Felsefe": "CECBD",
+        "Din Kül. ve Ahl. Bil.": "CBEDD",
+        "Matematik-1": "BDCBDBEAECBDEEAEBDDABCDACCBAAC",
+        "Geometri": "AECBDCDBEA",
+        "Fizik": "DECEABE",
+        "Kimya": "CDCBABE",
+        "Biyoloji": "CBDEAD"
+      }
+    }
   }
 ]
