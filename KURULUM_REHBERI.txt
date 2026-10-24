@@ -1,0 +1,19 @@
+GNCY - UCRETSIZ YAYINLAMA REHBERI
+
+1) github.com uzerinde ucretsiz hesap acin.
+2) Yeni PUBLIC repository olusturun (ornek: gncy-sinav).
+3) ZIP icindeki SADECE index.html ve sinavlar.json dosyalarini repository ana dizinine yukleyin.
+   YONETICI_BILGISAYARINDA_AC.html dosyasini YUKLEMEYIN.
+4) Settings > Pages > Build and deployment > Deploy from a branch > main > /(root) > Save.
+5) Bir sure sonra site adresiniz https://KULLANICIADI.github.io/gncy-sinav/ olur.
+6) Yeni sinav eklemek icin YONETICI_BILGISAYARINDA_AC.html dosyasini Chrome'da acin.
+   Mevcut sinavlar.json dosyasini yonetici panelinden yukleyin.
+   Yeni Excel dosyasini secin, Sinavi Kaydet'e basin.
+   'sinavlar.json indir' ile yeni dosyayi alin.
+7) GitHub repository icinde sinavlar.json dosyasini acip dosyayi yeni icerikle degistirin (Edit / Upload files).
+   Yeni yayin tamamlandiginda ogrenciler ayni linkte yeni sinavi gorur.
+
+ONEMLI: Bu cozumde sinav cevap anahtarlari herkese acik kaynak dosyalarinda bulunur.
+Bu nedenle yuksek guvenlik gerektiren sinavlarda kullanmayin.
+Sonuclar sunucuya gonderilmez ve kaydedilmez.
+Sadece ogrencinin kendi ekraninda hesaplanir.

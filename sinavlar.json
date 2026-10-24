@@ -1,0 +1,261 @@
+[
+  {
+    "id": "ankara-lgs-1",
+    "name": "ANKARA 8. SINIF LGS 1. DENEME",
+    "type": "LGS",
+    "sections": [
+      [
+        "Türkçe",
+        20
+      ],
+      [
+        "Tarih",
+        10
+      ],
+      [
+        "Din K.ve A.B.",
+        10
+      ],
+      [
+        "İngilizce",
+        10
+      ],
+      [
+        "Matematik",
+        20
+      ],
+      [
+        "Fen",
+        20
+      ]
+    ],
+    "keys": {
+      "A": {
+        "Türkçe": "BCBDDABADBADBCDCCAAC",
+        "Tarih": "DCABCDBACA",
+        "Din K.ve A.B.": "DACBCABCBD",
+        "İngilizce": "CAADBCCDBA",
+        "Matematik": "ABCCCDBAACBDADBDCDAB",
+        "Fen": "DCACAABCCAABBDBCDDDB"
+      },
+      "B": {
+        "Türkçe": "CAACCDCBDABDABADDBCB",
+        "Tarih": "ACABDCBACD",
+        "Din K.ve A.B.": "DBCBACBCAD",
+        "İngilizce": "ABDCCBDAAC",
+        "Matematik": "BADCDBDADBCAABDCCCBA",
+        "Fen": "BDDDCBDBBAACCBAACACD"
+      }
+    },
+    "meta": {
+      "A": {
+        "Türkçe": [
+          "Bağlamdan yararlanarak bilmediği kelime ve kelime gruplarının anlamını tahmin eder.",
+          "Okudukları ile ilgili çıkarımlarda bulunur.",
+          "Okudukları ile ilgili çıkarımlarda bulunur.",
+          "Bağlamdan yararlanarak bilmediği kelime ve kelime gruplarının anlamını tahmin eder.",
+          "Deyim, atasözü ve özdeyişlerin metne katkısını belirler.",
+          "Yazdıklarını düzenler.",
+          "Fiilimsilerin cümledeki işlevlerini kavrar.",
+          "Metinde ele alınan sorunlara farklı çözümler üretir.",
+          "Görsel ve başlıktan hareketle okuyacağı metnin konusunu tahmin eder.",
+          "Okudukları ile ilgili çıkarımlarda bulunur.",
+          "Okudukları ile ilgili çıkarımlarda bulunur.",
+          "Metindeki yardımcı fikirleri belirler.",
+          "Metinle ilgili soruları cevaplar.",
+          "Metin türlerini ayırt eder.",
+          "Okudukları ile ilgili çıkarımlarda bulunur.",
+          "Fiilimsilerin cümledeki işlevlerini kavrar.",
+          "Metindeki iş ve işlem basamaklarını kavrar.",
+          "Metindeki iş ve işlem basamaklarını kavrar.",
+          "Görsel ve başlıktan hareketle okuyacağı metnin konusunu tahmin eder.",
+          "Yazdıklarını düzenler."
+        ],
+        "Tarih": [
+          "Gençlik döneminde Mustafa Kemal'in fikir hayatını etkileyen önemli kişileri ve olayları kavrar.",
+          "Mustafa Kemal'in askerlik hayatı ile ilgili olayları ve olguları onun kişilik özellikleri ile ilişkilendirir.",
+          "Mustafa Kemal'in askerlik hayatı ile ilgili olayları ve olguları onun kişilik özellikleri ile ilişkilendirir.",
+          "Avrupa'daki gelişmelerin yansımaları bağlamında Osmanlı Devleti'nin yirminci yüzyılın başlarındaki siyasi ve sosyal durumunu kavrar.",
+          "Mustafa Kemal'in çocukluk ve öğrenim hayatından hareketle onun kişilik özelliklerinin oluşumu hakkında çıkarımlarda bulunur.",
+          "Avrupa'daki gelişmelerin yansımaları bağlamında Osmanlı Devleti'nin yirminci yüzyılın başlarındaki siyasi ve sosyal durumunu kavrar.",
+          "Gençlik döneminde Mustafa Kemal'in fikir hayatını etkileyen önemli kişileri ve olayları kavrar.",
+          "Mustafa Kemal'in askerlik hayatı ile ilgili olayları ve olguları onun kişilik özellikleri ile ilişkilendirir.",
+          "Mustafa Kemal'in çocukluk ve öğrenim hayatından hareketle onun kişilik özelliklerinin oluşumu hakkında çıkarımlarda bulunur.",
+          "Mustafa Kemal'in askerlik hayatı ile ilgili olayları ve olguları onun kişilik özellikleri ile ilişkilendirir."
+        ],
+        "Din K.ve A.B.": [
+          "Kader ve kaza inancını ayet ve hadislerle açıklar.",
+          "Kader ve kaza inancını ayet ve hadislerle açıklar.",
+          "İnsanın ilmi, iradesi, sorumluluğu ile kader arasında ilişki kurar.",
+          "Kader ve kaza inancını ayet ve hadislerle açıklar.",
+          "Kader ve kaza inancını ayet ve hadislerle açıklar.",
+          "Kader ve kaza inancını ayet ve hadislerle açıklar.",
+          "Kader ve kaza inancını ayet ve hadislerle açıklar.",
+          "İnsanın ilmi, iradesi, sorumluluğu ile kader arasında ilişki kurar.",
+          "Kader ve kaza inancını ayet ve hadislerle açıklar.",
+          "Kader ve kaza inancını ayet ve hadislerle açıklar."
+        ],
+        "İngilizce": [
+          "Students will be able to understand short and simple texts about friendship.",
+          "Students will be able to understand short and simple invitation letters, cards and e-mails.",
+          "Students will be able to structure a talk to make simple inquiries, give explanations and reasons.",
+          "Students will be able to understand short and simple texts about friendship.",
+          "Students will be able to understand the specific information in short conversations on everyday topics, such as accepting and refusing an offer/invitation, apologizing and making simple inquiries.",
+          "Students will be able to understand short and simple invitation letters, cards and e-mails.",
+          "Students will be able to understand short and simple invitation letters, cards and e-mails.",
+          "Students will be able to understand short and simple invitation letters, cards and e-mails.",
+          "Students will be able to understand the specific information in short conversations on everyday topics, such as accepting and refusing an offer/invitation, apologizing and making simple inquiries.",
+          "Students will be able to understand the specific information in short conversations on everyday topics, such as accepting and refusing an offer/invitation, apologizing and making simple inquiries."
+        ],
+        "Matematik": [
+          "İki doğal sayının en büyük ortak bölenini (EBOB) ve en küçük ortak katını (EKOK) hesaplar, ilgili problemleri çözer.",
+          "Verilen pozitif tam sayıların pozitif tam sayı çarpanlarını bulur, pozitif tam sayıların pozitif tam sayı çarpanlarını üslü ifadelerin çarpımı şeklinde yazar.",
+          "Verilen pozitif tam sayıların pozitif tam sayı çarpanlarını bulur, pozitif tam sayıların pozitif tam sayı çarpanlarını üslü ifadelerin çarpımı şeklinde yazar.",
+          "Tam sayıların, tam sayı kuvvetlerini hesaplar.",
+          "Tam sayıların, tam sayı kuvvetlerini hesaplar.",
+          "Üslü ifadelerle ilgili temel kuralları anlar, birbirine denk ifadeler oluşturur.",
+          "Tam sayıların, tam sayı kuvvetlerini hesaplar.",
+          "Üslü ifadelerle ilgili temel kuralları anlar, birbirine denk ifadeler oluşturur.",
+          "İki doğal sayının en büyük ortak bölenini (EBOB) ve en küçük ortak katını (EKOK) hesaplar, ilgili problemleri çözer.",
+          "İki doğal sayının en büyük ortak bölenini (EBOB) ve en küçük ortak katını (EKOK) hesaplar, ilgili problemleri çözer.",
+          "Üslü ifadelerle ilgili temel kuralları anlar, birbirine denk ifadeler oluşturur.",
+          "Üslü ifadelerle ilgili temel kuralları anlar, birbirine denk ifadeler oluşturur.",
+          "Üslü ifadelerle ilgili temel kuralları anlar, birbirine denk ifadeler oluşturur.",
+          "Tam sayıların, tam sayı kuvvetlerini hesaplar.",
+          "Verilen pozitif tam sayıların pozitif tam sayı çarpanlarını bulur, pozitif tam sayıların pozitif tam sayı çarpanlarını üslü ifadelerin çarpımı şeklinde yazar.",
+          "İki doğal sayının en büyük ortak bölenini (EBOB) ve en küçük ortak katını (EKOK) hesaplar, ilgili problemleri çözer.",
+          "Verilen pozitif tam sayıların pozitif tam sayı çarpanlarını bulur, pozitif tam sayıların pozitif tam sayı çarpanlarını üslü ifadelerin çarpımı şeklinde yazar.",
+          "Üslü ifadelerle ilgili temel kuralları anlar, birbirine denk ifadeler oluşturur.",
+          "Verilen iki doğal sayının aralarında asal olup olmadığını belirler.",
+          "İki doğal sayının en büyük ortak bölenini (EBOB) ve en küçük ortak katını (EKOK) hesaplar, ilgili problemleri çözer."
+        ],
+        "Fen": [
+          "Meteorolog kavramını açıklar.",
+          "Alçak hava basıncını açıklar.",
+          "Güney yarım küre ile kuzey yarım kürenin aynı anda farklı mevsimler yaşadığını açıklar.",
+          "Dünya'nın Güneş çevresinde dolanımı sırasında bulunduğu konumlara göre güney yarım kürede ve kuzey yarım kürede yaşanan mevsimleri tahmin eder.",
+          "Dünya'nın Güneş çevresinde dolanımı sırasında bulunduğu konumlara göre güney yarım kürede ve kuzey yarım kürede yaşanan mevsimleri tahmin eder.",
+          "İklim bilimci (klimatolog) kavramını açıklar.",
+          "Güneş ışınlarının gelme açısı ile bölgelerdeki sıcaklık farklarını açıklar.",
+          "Dünya'nın Güneş çevresinde dolanımı sırasında bulunduğu konumlara göre güney yarım kürede ve kuzey yarım kürede yaşanan mevsimleri tahmin eder.",
+          "Küresel iklim değişikliği kavramını açıklar.",
+          "Dünya'nın Güneş çevresinde dolanımı sırasında bulunduğu konumlara göre güney yarım kürede ve kuzey yarım kürede yaşanan mevsimleri tahmin eder.",
+          "Hava olaylarının değişken olduğunu söyler.",
+          "Yağmuru açıklar.",
+          "Güneş ışınlarının gelme açısı ile bölgelerdeki sıcaklık farklarını açıklar.",
+          "Birim alana düşen ışık miktarı ile sıcaklık değişimi arasındaki ilişkiyi açıklar.",
+          "Dünya'nın Güneş çevresinde dolanımı sırasında bulunduğu konumlara göre güney yarım kürede ve kuzey yarım kürede yaşanan mevsimleri tahmin eder.",
+          "Dünya'nın Güneş çevresinde dolanımı sırasında bulunduğu konumlara göre güney yarım kürede ve kuzey yarım kürede yaşanan mevsimleri tahmin eder.",
+          "Alçak hava basıncını açıklar.",
+          "Güney yarım küre ile kuzey yarım kürenin aynı anda farklı mevsimler yaşadığını açıklar.",
+          "Küresel iklim değişikliği kavramını açıklar.",
+          "Mevsimlerin oluşumunu sağlayan olayları açıklar."
+        ]
+      },
+      "B": {
+        "Türkçe": [
+          "Yazdıklarını düzenler.",
+          "Görsel ve başlıktan hareketle okuyacağı metnin konusunu tahmin eder.",
+          "Metindeki iş ve işlem basamaklarını kavrar.",
+          "Metindeki iş ve işlem basamaklarını kavrar.",
+          "Fiilimsilerin cümledeki işlevlerini kavrar.",
+          "Okudukları ile ilgili çıkarımlarda bulunur.",
+          "Metin türlerini ayırt eder.",
+          "Metinle ilgili soruları cevaplar.",
+          "Metindeki yardımcı fikirleri belirler.",
+          "Okudukları ile ilgili çıkarımlarda bulunur.",
+          "Okudukları ile ilgili çıkarımlarda bulunur.",
+          "Görsel ve başlıktan hareketle okuyacağı metnin konusunu tahmin eder.",
+          "Metinde ele alınan sorunlara farklı çözümler üretir.",
+          "Fiilimsilerin cümledeki işlevlerini kavrar.",
+          "Yazdıklarını düzenler.",
+          "Deyim, atasözü ve özdeyişlerin metne katkısını belirler.",
+          "Bağlamdan yararlanarak bilmediği kelime ve kelime gruplarının anlamını tahmin eder.",
+          "Okudukları ile ilgili çıkarımlarda bulunur.",
+          "Okudukları ile ilgili çıkarımlarda bulunur.",
+          "Bağlamdan yararlanarak bilmediği kelime ve kelime gruplarının anlamını tahmin eder."
+        ],
+        "Tarih": [
+          "Mustafa Kemal'in askerlik hayatı ile ilgili olayları ve olguları onun kişilik özellikleri ile ilişkilendirir.",
+          "Mustafa Kemal'in çocukluk ve öğrenim hayatından hareketle onun kişilik özelliklerinin oluşumu hakkında çıkarımlarda bulunur.",
+          "Mustafa Kemal'in askerlik hayatı ile ilgili olayları ve olguları onun kişilik özellikleri ile ilişkilendirir.",
+          "Gençlik döneminde Mustafa Kemal'in fikir hayatını etkileyen önemli kişileri ve olayları kavrar.",
+          "Avrupa'daki gelişmelerin yansımaları bağlamında Osmanlı Devleti'nin yirminci yüzyılın başlarındaki siyasi ve sosyal durumunu kavrar.",
+          "Mustafa Kemal'in çocukluk ve öğrenim hayatından hareketle onun kişilik özelliklerinin oluşumu hakkında çıkarımlarda bulunur.",
+          "Avrupa'daki gelişmelerin yansımaları bağlamında Osmanlı Devleti'nin yirminci yüzyılın başlarındaki siyasi ve sosyal durumunu kavrar.",
+          "Mustafa Kemal'in askerlik hayatı ile ilgili olayları ve olguları onun kişilik özellikleri ile ilişkilendirir.",
+          "Mustafa Kemal'in askerlik hayatı ile ilgili olayları ve olguları onun kişilik özellikleri ile ilişkilendirir.",
+          "Gençlik döneminde Mustafa Kemal'in fikir hayatını etkileyen önemli kişileri ve olayları kavrar."
+        ],
+        "Din K.ve A.B.": [
+          "Kader ve kaza inancını ayet ve hadislerle açıklar.",
+          "Kader ve kaza inancını ayet ve hadislerle açıklar.",
+          "İnsanın ilmi, iradesi, sorumluluğu ile kader arasında ilişki kurar.",
+          "Kader ve kaza inancını ayet ve hadislerle açıklar.",
+          "Kader ve kaza inancını ayet ve hadislerle açıklar.",
+          "Kader ve kaza inancını ayet ve hadislerle açıklar.",
+          "Kader ve kaza inancını ayet ve hadislerle açıklar.",
+          "İnsanın ilmi, iradesi, sorumluluğu ile kader arasında ilişki kurar.",
+          "Kader ve kaza inancını ayet ve hadislerle açıklar.",
+          "Kader ve kaza inancını ayet ve hadislerle açıklar."
+        ],
+        "İngilizce": [
+          "Students will be able to understand the specific information in short conversations on everyday topics, such as accepting and refusing an offer/invitation, apologizing and making simple inquiries.",
+          "Students will be able to understand the specific information in short conversations on everyday topics, such as accepting and refusing an offer/invitation, apologizing and making simple inquiries.",
+          "Students will be able to understand short and simple invitation letters, cards and e-mails.",
+          "Students will be able to understand short and simple invitation letters, cards and e-mails.",
+          "Students will be able to understand short and simple invitation letters, cards and e-mails.",
+          "Students will be able to understand the specific information in short conversations on everyday topics, such as accepting and refusing an offer/invitation, apologizing and making simple inquiries.",
+          "Students will be able to understand short and simple texts about friendship.",
+          "Students will be able to structure a talk to make simple inquiries, give explanations and reasons.",
+          "Students will be able to understand short and simple invitation letters, cards and e-mails.",
+          "Students will be able to understand short and simple texts about friendship."
+        ],
+        "Matematik": [
+          "İki doğal sayının en büyük ortak bölenini (EBOB) ve en küçük ortak katını (EKOK) hesaplar, ilgili problemleri çözer.",
+          "Verilen iki doğal sayının aralarında asal olup olmadığını belirler.",
+          "Üslü ifadelerle ilgili temel kuralları anlar, birbirine denk ifadeler oluşturur.",
+          "Verilen pozitif tam sayıların pozitif tam sayı çarpanlarını bulur, pozitif tam sayıların pozitif tam sayı çarpanlarını üslü ifadelerin çarpımı şeklinde yazar.",
+          "İki doğal sayının en büyük ortak bölenini (EBOB) ve en küçük ortak katını (EKOK) hesaplar, ilgili problemleri çözer.",
+          "Verilen pozitif tam sayıların pozitif tam sayı çarpanlarını bulur, pozitif tam sayıların pozitif tam sayı çarpanlarını üslü ifadelerin çarpımı şeklinde yazar.",
+          "Tam sayıların, tam sayı kuvvetlerini hesaplar.",
+          "Üslü ifadelerle ilgili temel kuralları anlar, birbirine denk ifadeler oluşturur.",
+          "Üslü ifadelerle ilgili temel kuralları anlar, birbirine denk ifadeler oluşturur.",
+          "Üslü ifadelerle ilgili temel kuralları anlar, birbirine denk ifadeler oluşturur.",
+          "İki doğal sayının en büyük ortak bölenini (EBOB) ve en küçük ortak katını (EKOK) hesaplar, ilgili problemleri çözer.",
+          "İki doğal sayının en büyük ortak bölenini (EBOB) ve en küçük ortak katını (EKOK) hesaplar, ilgili problemleri çözer.",
+          "Üslü ifadelerle ilgili temel kuralları anlar, birbirine denk ifadeler oluşturur.",
+          "Tam sayıların, tam sayı kuvvetlerini hesaplar.",
+          "Üslü ifadelerle ilgili temel kuralları anlar, birbirine denk ifadeler oluşturur.",
+          "Tam sayıların, tam sayı kuvvetlerini hesaplar.",
+          "Tam sayıların, tam sayı kuvvetlerini hesaplar.",
+          "Verilen pozitif tam sayıların pozitif tam sayı çarpanlarını bulur, pozitif tam sayıların pozitif tam sayı çarpanlarını üslü ifadelerin çarpımı şeklinde yazar.",
+          "Verilen pozitif tam sayıların pozitif tam sayı çarpanlarını bulur, pozitif tam sayıların pozitif tam sayı çarpanlarını üslü ifadelerin çarpımı şeklinde yazar.",
+          "İki doğal sayının en büyük ortak bölenini (EBOB) ve en küçük ortak katını (EKOK) hesaplar, ilgili problemleri çözer."
+        ],
+        "Fen": [
+          "Mevsimlerin oluşumunu sağlayan olayları açıklar.",
+          "Küresel iklim değişikliği kavramını açıklar.",
+          "Güney yarım küre ile kuzey yarım kürenin aynı anda farklı mevsimler yaşadığını açıklar.",
+          "Alçak hava basıncını açıklar.",
+          "Dünya'nın Güneş çevresinde dolanımı sırasında bulunduğu konumlara göre güney yarım kürede ve kuzey yarım kürede yaşanan mevsimleri tahmin eder.",
+          "Dünya'nın Güneş çevresinde dolanımı sırasında bulunduğu konumlara göre güney yarım kürede ve kuzey yarım kürede yaşanan mevsimleri tahmin eder.",
+          "Birim alana düşen ışık miktarı ile sıcaklık değişimi arasındaki ilişkiyi açıklar.",
+          "Güneş ışınlarının gelme açısı ile bölgelerdeki sıcaklık farklarını açıklar.",
+          "Yağmuru açıklar.",
+          "Hava olaylarının değişken olduğunu söyler.",
+          "Dünya'nın Güneş çevresinde dolanımı sırasında bulunduğu konumlara göre güney yarım kürede ve kuzey yarım kürede yaşanan mevsimleri tahmin eder.",
+          "Küresel iklim değişikliği kavramını açıklar.",
+          "Dünya'nın Güneş çevresinde dolanımı sırasında bulunduğu konumlara göre güney yarım kürede ve kuzey yarım kürede yaşanan mevsimleri tahmin eder.",
+          "Güneş ışınlarının gelme açısı ile bölgelerdeki sıcaklık farklarını açıklar.",
+          "İklim bilimci (klimatolog) kavramını açıklar.",
+          "Dünya'nın Güneş çevresinde dolanımı sırasında bulunduğu konumlara göre güney yarım kürede ve kuzey yarım kürede yaşanan mevsimleri tahmin eder.",
+          "Dünya'nın Güneş çevresinde dolanımı sırasında bulunduğu konumlara göre güney yarım kürede ve kuzey yarım kürede yaşanan mevsimleri tahmin eder.",
+          "Güney yarım küre ile kuzey yarım kürenin aynı anda farklı mevsimler yaşadığını açıklar.",
+          "Alçak hava basıncını açıklar.",
+          "Meteorolog kavramını açıklar."
+        ]
+      }
+    }
+  }
+]
